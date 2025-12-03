@@ -1,0 +1,36 @@
+Date	Time	Team 1	Team 2	Venue (City)
+07 Feb 2026	11:00 AM	PAK	NED	SSC, Colombo 
+icc
+
+07 Feb 2026	03:00 PM	WI	BAN	Kolkata 
+icc
+
+07 Feb 2026	07:00 PM	IND	USA	Mumbai 
+icc
+
+08 Feb 2026	11:00 AM	NZ	AFG	Chennai 
+icc
+
+08 Feb 2026	03:00 PM	ENG	NEP	Mumbai 
+icc
+
+08 Feb 2026	07:00 PM	SL	IRE	R. Premadasa, Colombo 
+icc
+
+09 Feb 2026	11:00 AM	BAN	ITA	Kolkata 
+icc
+
+09 Feb 2026	03:00 PM	ZIM	OMA	SSC, Colombo 
+icc
+
+09 Feb 2026	07:00 PM	SA	CAN	Ahmedabad 
+icc
+
+10 Feb 2026	11:00 AM	NED	NAM	Delhi 
+icc
+
+10 Feb 2026	03:00 PM	NZ	UAE	Chennai 
+icc
+
+10 Feb 2026	07:00 PM	PAK	USA	SSC, Colombo 
+icc
