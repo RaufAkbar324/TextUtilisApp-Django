@@ -20,6 +20,12 @@ from . import views
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('home',views.home, name='home'),
+    path('',views.home, name='home'),
     path('about/', views.about, name='about'),
+    path('RemovePunc/',views.RemovePunc,name='RemovePunc'),
+    path("CapitalizeFirst/",views.CapitalizeFirst, name="CapitalizeFirst"),
+    path("SpaceRemover/",views.SpaceRemover, name="SpaceRemover"),
+    path("LineRemover/",views.LineRemover, name="LineRemover"),
+    path("CharCount/",views.CharCount, name="CharCount"),
+    path("NewLineRemover/", views.NewLineRemover, name="NewLineRemover"),
 ]
