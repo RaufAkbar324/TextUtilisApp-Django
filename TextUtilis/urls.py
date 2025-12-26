@@ -28,4 +28,6 @@ urlpatterns = [
     path("LineRemover/",views.LineRemover, name="LineRemover"),
     path("CharCount/",views.CharCount, name="CharCount"),
     path("NewLineRemover/", views.NewLineRemover, name="NewLineRemover"),
+    path('analyze/', views.analyze, name='analyze'),
+    
 ]
