@@ -22,7 +22,7 @@ urlpatterns = [
     path('admin/', admin.site.urls),
     path('',views.home, name='home'),
     path('about/', views.about, name='about'),
-    path('RemovePunc/',views.RemovePunc,name='RemovePunc'),
+    # path('RemovePunc/',views.RemovePunc,name='RemovePunc'),
     path("CapitalizeFirst/",views.CapitalizeFirst, name="CapitalizeFirst"),
     path("SpaceRemover/",views.SpaceRemover, name="SpaceRemover"),
     path("LineRemover/",views.LineRemover, name="LineRemover"),
